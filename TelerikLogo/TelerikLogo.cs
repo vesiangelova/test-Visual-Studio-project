@@ -64,7 +64,7 @@ class TelerikLogo
             outerSquareDots++;
         }
         Console.WriteLine(centerDotQuadrant);
-        Console.ReadKey();
+        //Console.ReadKey();
     }
 }
 
