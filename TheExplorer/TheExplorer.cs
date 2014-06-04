@@ -20,6 +20,6 @@ class Program
             Console.WriteLine("{0}*{1}*{0}", firstend, middle);
         }
         Console.WriteLine(firstline);
-        Console.ReadKey();
+        //Console.ReadKey();
     }
 }
